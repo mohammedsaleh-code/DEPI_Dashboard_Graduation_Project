@@ -9,8 +9,8 @@ Repository Structure
 --------------------
 
 ├── Data_After_Cleanning/
-│   ├── railway_cleaned_finallllll2.csv
-│   └── Cleanning_Script.ipynb
+│   ├── railway_cleaned_finalllll2.csv
+│   ├── Cleanning_Script.ipynb
 │
 ├── Data_After_Modeling(Final)/
 │   ├── dJourney.csv
@@ -18,19 +18,15 @@ Repository Structure
 │   ├── dRefund.csv
 │   ├── dCalendar.csv
 │   ├── fTransaction.csv
-│   └── Mapping_Script.ipynb
+│   ├── Mapping_Script.ipynb
 │
 ├── Final Dashboard/
-│   ├── screenshots
-│   └── UK_Train_Rides_Fully2.pbix
+│   ├── screenshots/
 │
 ├── Main_Data_Source/
-│   ├── raihway.csv  (mean data source)
-│   └── railway_data_dictionary.csv
+│   ├── railway.csv  (main data source)
+│   ├── railway_data_dictionary.csv
 │
 ├── README.md
-│
 ├── UK Railway Project.pdf
-│
-│
-└── UK_Train_Rides_Final.pbix
+├── UK_Train_Rides_Final.pbix
