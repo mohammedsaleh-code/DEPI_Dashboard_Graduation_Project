@@ -5,7 +5,9 @@ Business Intelligence | Data Modeling | Power BI | ETL | Data Cleaning
 This repository contains a full end-to-end BI project analyzing UK train journeys, ticket transactions, and refund behavior.
 The goal is to build a reliable BI solution that improves refund accuracy, identifies loss-making routes, and evaluates operational delays.
 
-# Repository Structure
+Repository Structure
+--------------------
+
 ├── Data_After_Cleanning/
 │   ├── railway_cleaned_finallllll2.csv
 │   └── Cleanning_Script.ipynb
