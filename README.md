@@ -21,7 +21,7 @@ Repository Structure
 │   ├── Mapping_Script.ipynb
 │
 ├── Final Dashboard/
-│   ├── screenshots
+│   ├── Screenshots.md
 │   ├──UK_Train_Rides_Fully2.pbix
 │
 ├── Main_Data_Source/
